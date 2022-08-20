@@ -21,4 +21,4 @@ The code is currently private pending future work and time availability to creat
 
 ## Acknowledgements
 
-I was very lucky to have [Prof. Carlo A. Furia](https://bugcounting.net/) supervising me.
+I was very lucky to have had [Prof. Carlo A. Furia](https://bugcounting.net/) supervising me.
