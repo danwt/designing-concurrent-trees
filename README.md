@@ -2,7 +2,7 @@
 
 **My MSc thesis on designing correct concurrent shared memory balance tree data structures, with the help of model checking and TLA+.**
 
-[![Blog](https://img.shields.io/badge/-.pdf-informational?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://danwt.github.io/)
+[![Blog](https://img.shields.io/badge/-.pdf-informational?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/danwt/designing-concurrent-trees/raw/main/Tisdall_Daniel_Designing_Concurrent_Trees_MSc_Thesis_Without_AppendixB.pdf)
 
 ## What is this?
 
@@ -17,8 +17,8 @@ In the Spring of 2021 I wrote my master's thesis on designing _correct_ concurre
 
 ## Code and future work
 
-The code is currently private pending future work and time availability.
+The code is currently private pending future work and time availability to create a release.
 
 ## Acknowledgements
 
-I was lucky to have [Prof. Carlo A. Furia](https://bugcounting.net/) supervising me.
+I was very lucky to have [Prof. Carlo A. Furia](https://bugcounting.net/) supervising me.
