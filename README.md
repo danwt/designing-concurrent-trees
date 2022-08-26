@@ -6,7 +6,7 @@
 
 ## What is this?
 
-In the Spring of 2021 I wrote my master's thesis on designing _correct_ concurrent tree data structures. In particular, shared memory pointer based balanced trees.
+In the spring of 2021 I wrote my master's thesis on designing _correct_ concurrent tree data structures. In particular, shared memory pointer based balanced trees.
 
 ## Abstract
 
