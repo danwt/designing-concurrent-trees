@@ -20,7 +20,7 @@ In the spring of 2021 I wrote my master's thesis on designing _correct_ concurre
 
 ## Code and future work
 
-The code is currently private pending future work and time availability to create a release.
+An unorganized code dump is here https://github.com/danwt/research-artifacts-concurrent-trees.
 
 ## Acknowledgements
 
